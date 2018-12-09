@@ -1,5 +1,5 @@
 import { ArgumentParser } from "argparse";
-import { Task } from "core";
+import { Task } from "@surucode/suru-core";
 
 export interface TaskWithArgs extends Task {
   argParser: ArgumentParser;
