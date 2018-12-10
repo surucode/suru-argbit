@@ -1,5 +1,5 @@
-export { ArgBit } from "./bits";
-export { RawArgsBit } from "./bits";
+export { ArgBit } from "./bits/ArgBit";
+export { RawArgsBit } from "./bits/RawArgsBit";
 
 declare global {
   namespace NodeJS {

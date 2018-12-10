@@ -1,4 +1,4 @@
-import { SuruBit } from "core";
+import { SuruBit } from "@surucode/suru-core";
 import { ArgumentParser, ArgumentOptions } from "argparse";
 import { TaskWithArgs } from "./TaskWithArgs";
 
